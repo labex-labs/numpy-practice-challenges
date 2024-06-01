@@ -9,17 +9,23 @@ This course contains lots of challenges for NumPy, each challenge is a small Num
 
 ## Scenarios
 
-|   Index | Name                                     | Difficulty   | Practice                                                                   |
-|---------|------------------------------------------|--------------|----------------------------------------------------------------------------|
-|       1 | 🎯 Find Image Edges by Gradients          | ★★☆          | <a target='_blank' href='https://labex.io/labs/259151'>Start Challenge</a> |
-|       2 | 🎯 NumPy Dot Product                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8737'>Start Challenge</a>   |
-|       3 | 🎯 Random Number Generation with NumPy    | ★★☆          | <a target='_blank' href='https://labex.io/labs/34635'>Start Challenge</a>  |
-|       4 | 🎯 Linear Algebra Solving with NumPy      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8000'>Start Challenge</a>   |
-|       5 | 🎯 Sorting and Searching                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/154566'>Start Challenge</a> |
-|       6 | 🎯 NumPy List Value Statistics            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/664'>Start Challenge</a>    |
-|       7 | 🎯 Mastering String Operations            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148882'>Start Challenge</a> |
-|       8 | 🎯 Binary Operations Challenge with NumPy | ★★☆          | <a target='_blank' href='https://labex.io/labs/153823'>Start Challenge</a> |
-|       9 | 🎯 Analyze and Visualize FFT              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/55715'>Start Challenge</a>  |
+|   Index | Name                                                    | Difficulty   | Practice                                                                   |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|      01 | 🎯 Find Image Edges by Gradients                         | ★★☆          | <a target='_blank' href='https://labex.io/labs/259151'>Start Challenge</a> |
+|      02 | 🎯 K-Nearest Neighbors Regression Algorithm Implement... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300233'>Start Challenge</a> |
+|      03 | 🎯 NumPy Dot Product                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8737'>Start Challenge</a>   |
+|      04 | 🎯 Random Number Generation with NumPy                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/34635'>Start Challenge</a>  |
+|      05 | 🎯 Linear Algebra Solving with NumPy                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8000'>Start Challenge</a>   |
+|      06 | 🎯 Sorting and Searching                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/154566'>Start Challenge</a> |
+|      07 | 🎯 Implementing Minkowski Distance Metric                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300239'>Start Challenge</a> |
+|      08 | 🎯 Implementation of Polynomial Regression               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300250'>Start Challenge</a> |
+|      09 | 🎯 NumPy List Value Statistics                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/664'>Start Challenge</a>    |
+|      10 | 🎯 Mastering String Operations                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148882'>Start Challenge</a> |
+|      11 | 🎯 Gravitational Simulation of Earth and Super Jupite... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299467'>Start Challenge</a> |
+|      12 | 🎯 Binary Operations Challenge with NumPy                | ★★☆          | <a target='_blank' href='https://labex.io/labs/153823'>Start Challenge</a> |
+|      13 | 🎯 Simple Handwritten Character Recognition Classifie... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300256'>Start Challenge</a> |
+|      14 | 🎯 ASCII Art Animation With OpenCV                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299452'>Start Challenge</a> |
+|      15 | 🎯 Analyze and Visualize FFT                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/55715'>Start Challenge</a>  |
 
 ## More
 
