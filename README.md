@@ -24,7 +24,7 @@ This course contains lots of challenges for NumPy, each challenge is a small Num
 |      11 | 🎯 Gravitational Simulation of Earth and Super Jupite... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299467'>Start Challenge</a> |
 |      12 | 🎯 Binary Operations Challenge with NumPy                | ★★☆          | <a target='_blank' href='https://labex.io/labs/153823'>Start Challenge</a> |
 |      13 | 🎯 Simple Handwritten Character Recognition Classifie... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300256'>Start Challenge</a> |
-|      14 | 🎯 ASCII Art Animation With OpenCV                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299452'>Start Challenge</a> |
+|      14 | 🎯 ASCII Art Animation With OpenCV (Challenge)           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299452'>Start Challenge</a> |
 |      15 | 🎯 Analyze and Visualize FFT                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/55715'>Start Challenge</a>  |
 
 ## More
