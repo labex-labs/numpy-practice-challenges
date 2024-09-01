@@ -17,7 +17,7 @@ This course contains lots of challenges for NumPy, each challenge is a small Num
 |       4 | 🎯 Linear Algebra Solving with NumPy      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8000'>Start Challenge</a>   |
 |       5 | 🎯 Sorting and Searching                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/154566'>Start Challenge</a> |
 |       6 | 🎯 NumPy List Value Statistics            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/664'>Start Challenge</a>    |
-|       7 | 🎯 Mastering String Operations            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148882'>Start Challenge</a> |
+|       7 | 🎯 String Operations                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148882'>Start Challenge</a> |
 |       8 | 🎯 Binary Operations Challenge with NumPy | ★★☆          | <a target='_blank' href='https://labex.io/labs/153823'>Start Challenge</a> |
 |       9 | 🎯 Analyze and Visualize FFT              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/55715'>Start Challenge</a>  |
 
