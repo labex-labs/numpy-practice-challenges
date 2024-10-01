@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                      | Difficulty   | Practice                                                                                                                     |
-|---------|-------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                     | Difficulty   | Practice                                                                                                                     |
+|---------|------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
 |       1 | 🎯 Find Image Edges by Gradients          | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-find-image-edges-by-gradients-259151'>Start Challenge</a>         |
 |       2 | 🎯 NumPy Dot Product                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-dot-product-8737'>Start Challenge</a>                        |
 |       3 | 🎯 Random Number Generation with NumPy    | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-random-number-generation-with-numpy-34635'>Start Challenge</a>     |
