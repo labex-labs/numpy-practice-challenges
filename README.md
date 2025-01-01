@@ -25,17 +25,17 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                     | Difficulty   | Practice                                                                                                                     |
-|---------|------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 🎯 Find Image Edges by Gradients          | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-find-image-edges-by-gradients-259151'>Start Challenge</a>         |
-|       2 | 🎯 NumPy Dot Product                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-dot-product-8737'>Start Challenge</a>                        |
-|       3 | 🎯 Random Number Generation with NumPy    | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-random-number-generation-with-numpy-34635'>Start Challenge</a>     |
-|       4 | 🎯 Linear Algebra Solving with NumPy      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-linear-algebra-solving-with-numpy-8000'>Start Challenge</a>        |
-|       5 | 🎯 Sorting and Searching                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-sorting-and-searching-154566'>Start Challenge</a>                  |
-|       6 | 🎯 NumPy List Value Statistics            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-list-value-statistics-664'>Start Challenge</a>               |
-|       7 | 🎯 String Operations                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-string-operations-148882'>Start Challenge</a>                      |
-|       8 | 🎯 Binary Operations Challenge with NumPy | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-binary-operations-challenge-with-numpy-153823'>Start Challenge</a> |
-|       9 | 🎯 Analyze and Visualize FFT              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-analyze-and-visualize-fft-55715'>Start Challenge</a>               |
+|   Index | Name                                     | Difficulty   | Practice                                                                                                                |
+|---------|------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🎯 Find Image Edges by Gradients          | ★★☆          | <a target='_blank' href='https://labex.io/labs/opencv-find-image-edges-by-gradients-259151'>Start Challenge</a>         |
+|       2 | 🎯 NumPy Dot Product                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/numpy-numpy-dot-product-8737'>Start Challenge</a>                        |
+|       3 | 🎯 Random Number Generation with NumPy    | ★★☆          | <a target='_blank' href='https://labex.io/labs/numpy-random-number-generation-with-numpy-34635'>Start Challenge</a>     |
+|       4 | 🎯 Linear Algebra Solving with NumPy      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/numpy-linear-algebra-solving-with-numpy-8000'>Start Challenge</a>        |
+|       5 | 🎯 Sorting and Searching                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/numpy-sorting-and-searching-154566'>Start Challenge</a>                  |
+|       6 | 🎯 NumPy List Value Statistics            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/numpy-numpy-list-value-statistics-664'>Start Challenge</a>               |
+|       7 | 🎯 String Operations                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/numpy-string-operations-148882'>Start Challenge</a>                      |
+|       8 | 🎯 Binary Operations Challenge with NumPy | ★★☆          | <a target='_blank' href='https://labex.io/labs/numpy-binary-operations-challenge-with-numpy-153823'>Start Challenge</a> |
+|       9 | 🎯 Analyze and Visualize FFT              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/numpy-analyze-and-visualize-fft-55715'>Start Challenge</a>               |
 
 ## More
 
