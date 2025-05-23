@@ -31,19 +31,19 @@ Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 |   Índice | Nome                                      | Dificuldade   | Prática                                                                                                                     |
 |----------|-------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 Find Image Edges by Gradients          | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/numpy-find-image-edges-by-gradients-259151'>Iniciar Desafio</a>           |
-|        2 | 🎯 NumPy Dot Product                      | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-numpy-dot-product-8737'>Iniciar Desafio</a>                        |
-|        3 | 🎯 Random Number Generation with NumPy    | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-random-number-generation-with-numpy-34635'>Iniciar Desafio</a>     |
-|        4 | 🎯 Linear Algebra Solving with NumPy      | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-linear-algebra-solving-with-numpy-8000'>Iniciar Desafio</a>        |
-|        5 | 🎯 Sorting and Searching                  | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-sorting-and-searching-154566'>Iniciar Desafio</a>                  |
-|        6 | 🎯 NumPy List Value Statistics            | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-numpy-list-value-statistics-664'>Iniciar Desafio</a>               |
-|        7 | 🎯 String Operations                      | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-string-operations-148882'>Iniciar Desafio</a>                      |
-|        8 | 🎯 Binary Operations Challenge with NumPy | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-binary-operations-challenge-with-numpy-153823'>Iniciar Desafio</a> |
-|        9 | 🎯 Analyze and Visualize FFT              | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-analyze-and-visualize-fft-55715'>Iniciar Desafio</a>               |
+|        1 | 🎯 Find Image Edges by Gradients          | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/numpy-find-image-edges-by-gradients-259151'>Iniciar Desafio</a>           |
+|        2 | 🎯 NumPy Dot Product                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-numpy-dot-product-8737'>Iniciar Desafio</a>                        |
+|        3 | 🎯 Random Number Generation with NumPy    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-random-number-generation-with-numpy-34635'>Iniciar Desafio</a>     |
+|        4 | 🎯 Linear Algebra Solving with NumPy      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-linear-algebra-solving-with-numpy-8000'>Iniciar Desafio</a>        |
+|        5 | 🎯 Sorting and Searching                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-sorting-and-searching-154566'>Iniciar Desafio</a>                  |
+|        6 | 🎯 NumPy List Value Statistics            | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-numpy-list-value-statistics-664'>Iniciar Desafio</a>               |
+|        7 | 🎯 String Operations                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-string-operations-148882'>Iniciar Desafio</a>                      |
+|        8 | 🎯 Binary Operations Challenge with NumPy | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-binary-operations-challenge-with-numpy-153823'>Iniciar Desafio</a> |
+|        9 | 🎯 Analyze and Visualize FFT              | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-analyze-and-visualize-fft-55715'>Iniciar Desafio</a>               |
 
 ## Mais
 
-- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [NumPy Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- 🔗 [NumPy Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [NumPy Tutoriais Gratuitos](https://github.com/labex-labs/numpy-free-tutorials)
 
