@@ -31,19 +31,19 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                      | 난이도   | 연습                                                                                                                  |
 |----------|-------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 Find Image Edges by Gradients          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/numpy-find-image-edges-by-gradients-259151'>도전 시작</a>           |
-|        2 | 🎯 NumPy Dot Product                      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-numpy-dot-product-8737'>도전 시작</a>                        |
-|        3 | 🎯 Random Number Generation with NumPy    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-random-number-generation-with-numpy-34635'>도전 시작</a>     |
-|        4 | 🎯 Linear Algebra Solving with NumPy      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-linear-algebra-solving-with-numpy-8000'>도전 시작</a>        |
-|        5 | 🎯 Sorting and Searching                  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-sorting-and-searching-154566'>도전 시작</a>                  |
-|        6 | 🎯 NumPy List Value Statistics            | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-numpy-list-value-statistics-664'>도전 시작</a>               |
-|        7 | 🎯 String Operations                      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-string-operations-148882'>도전 시작</a>                      |
-|        8 | 🎯 Binary Operations Challenge with NumPy | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-binary-operations-challenge-with-numpy-153823'>도전 시작</a> |
-|        9 | 🎯 Analyze and Visualize FFT              | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-analyze-and-visualize-fft-55715'>도전 시작</a>               |
+|        1 | 🎯 Find Image Edges by Gradients          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/numpy-find-image-edges-by-gradients-259151'>도전 시작</a>           |
+|        2 | 🎯 NumPy Dot Product                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-numpy-dot-product-8737'>도전 시작</a>                        |
+|        3 | 🎯 Random Number Generation with NumPy    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-random-number-generation-with-numpy-34635'>도전 시작</a>     |
+|        4 | 🎯 Linear Algebra Solving with NumPy      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-linear-algebra-solving-with-numpy-8000'>도전 시작</a>        |
+|        5 | 🎯 Sorting and Searching                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-sorting-and-searching-154566'>도전 시작</a>                  |
+|        6 | 🎯 NumPy List Value Statistics            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-numpy-list-value-statistics-664'>도전 시작</a>               |
+|        7 | 🎯 String Operations                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-string-operations-148882'>도전 시작</a>                      |
+|        8 | 🎯 Binary Operations Challenge with NumPy | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-binary-operations-challenge-with-numpy-153823'>도전 시작</a> |
+|        9 | 🎯 Analyze and Visualize FFT              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-analyze-and-visualize-fft-55715'>도전 시작</a>               |
 
 ## 더 보기
 
-- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [NumPy Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- 🔗 [NumPy 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [NumPy 무료 튜토리얼](https://github.com/labex-labs/numpy-free-tutorials)
 
