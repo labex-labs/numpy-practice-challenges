@@ -31,19 +31,19 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Índice | Nombre                                              | Dificultad   | Práctica                                                                                                                    |
 |----------|-----------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 Encontrar bordes de imágenes mediante gradientes | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/numpy-find-image-edges-by-gradients-259151'>Iniciar Desafío</a>           |
-|        2 | 🎯 Producto Punto de NumPy                          | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-numpy-dot-product-8737'>Iniciar Desafío</a>                        |
-|        3 | 🎯 Generación de Números Aleatorios con NumPy       | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-random-number-generation-with-numpy-34635'>Iniciar Desafío</a>     |
-|        4 | 🎯 Resolución de Álgebra Lineal con NumPy           | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-linear-algebra-solving-with-numpy-8000'>Iniciar Desafío</a>        |
-|        5 | 🎯 Clasificación y búsqueda                         | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-sorting-and-searching-154566'>Iniciar Desafío</a>                  |
-|        6 | 🎯 Estadísticas de valores de lista de NumPy        | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-numpy-list-value-statistics-664'>Iniciar Desafío</a>               |
-|        7 | 🎯 Operaciones con cadenas                          | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-string-operations-148882'>Iniciar Desafío</a>                      |
-|        8 | 🎯 Desafío de Operaciones Binarias con NumPy        | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-binary-operations-challenge-with-numpy-153823'>Iniciar Desafío</a> |
-|        9 | 🎯 Analizar y Visualizar la FFT                     | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-analyze-and-visualize-fft-55715'>Iniciar Desafío</a>               |
+|        1 | 🎯 Encontrar bordes de imágenes mediante gradientes | Principiante | <a target='_blank' href='https://labex.io/es/labs/numpy-find-image-edges-by-gradients-259151'>Iniciar Desafío</a>           |
+|        2 | 🎯 Producto Punto de NumPy                          | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-numpy-dot-product-8737'>Iniciar Desafío</a>                        |
+|        3 | 🎯 Generación de Números Aleatorios con NumPy       | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-random-number-generation-with-numpy-34635'>Iniciar Desafío</a>     |
+|        4 | 🎯 Resolución de Álgebra Lineal con NumPy           | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-linear-algebra-solving-with-numpy-8000'>Iniciar Desafío</a>        |
+|        5 | 🎯 Clasificación y búsqueda                         | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-sorting-and-searching-154566'>Iniciar Desafío</a>                  |
+|        6 | 🎯 Estadísticas de valores de lista de NumPy        | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-numpy-list-value-statistics-664'>Iniciar Desafío</a>               |
+|        7 | 🎯 Operaciones con cadenas                          | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-string-operations-148882'>Iniciar Desafío</a>                      |
+|        8 | 🎯 Desafío de Operaciones Binarias con NumPy        | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-binary-operations-challenge-with-numpy-153823'>Iniciar Desafío</a> |
+|        9 | 🎯 Analizar y Visualizar la FFT                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-analyze-and-visualize-fft-55715'>Iniciar Desafío</a>               |
 
 ## Más
 
-- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [NumPy Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- 🔗 [NumPy Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [NumPy Tutoriales Gratuitos](https://github.com/labex-labs/numpy-free-tutorials)
 
