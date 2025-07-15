@@ -13,6 +13,20 @@
 ![NumPy](https://img.shields.io/badge/NumPy-whitesmoke?style=for-the-badge&logo=numpy)
 
 
+## 练习
+
+|   序号 | 名称                                | 难度   | 练习                                                                                                                 |
+|--------|-------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------|
+|      1 | 🎯 🟢 通过梯度查找图像边缘          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-find-image-edges-by-gradients-259151'>开始挑战</a>           |
+|      2 | 🎯 🔵 NumPy 点积                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-dot-product-8737'>开始挑战</a>                        |
+|      3 | 🎯 🔵 使用 NumPy 进行随机数生成     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-random-number-generation-with-numpy-34635'>开始挑战</a>     |
+|      4 | 🎯 🔵 使用 NumPy 求解线性代数问题   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-linear-algebra-solving-with-numpy-8000'>开始挑战</a>        |
+|      5 | 🎯 🔵 排序与搜索                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-sorting-and-searching-154566'>开始挑战</a>                  |
+|      6 | 🎯 🔵 NumPy 列表数值统计            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-list-value-statistics-664'>开始挑战</a>               |
+|      7 | 🎯 🔵 字符串操作                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-string-operations-148882'>开始挑战</a>                      |
+|      8 | 🎯 🔵 使用 NumPy 进行二进制运算挑战 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-binary-operations-challenge-with-numpy-153823'>开始挑战</a> |
+|      9 | 🎯 🔵 分析并可视化 FFT              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-analyze-and-visualize-fft-55715'>开始挑战</a>               |
+
 ## 学习环境
 
 LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。
@@ -23,23 +37,9 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 浏览器内的交互式在线环境，具有自动化的逐步检查。
 - 基于技能树的结构化内容组织系统。
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
-- 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
+- 基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 练习
-
-|   序号 | 名称                             | 难度   | 练习                                                                                                                 |
-|--------|----------------------------------|--------|----------------------------------------------------------------------------------------------------------------------|
-|      1 | 🎯 通过梯度查找图像边缘          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-find-image-edges-by-gradients-259151'>开始挑战</a>           |
-|      2 | 🎯 NumPy 点积                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-dot-product-8737'>开始挑战</a>                        |
-|      3 | 🎯 使用 NumPy 进行随机数生成     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-random-number-generation-with-numpy-34635'>开始挑战</a>     |
-|      4 | 🎯 使用 NumPy 求解线性代数问题   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-linear-algebra-solving-with-numpy-8000'>开始挑战</a>        |
-|      5 | 🎯 排序与搜索                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-sorting-and-searching-154566'>开始挑战</a>                  |
-|      6 | 🎯 NumPy 列表数值统计            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-list-value-statistics-664'>开始挑战</a>               |
-|      7 | 🎯 字符串操作                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-string-operations-148882'>开始挑战</a>                      |
-|      8 | 🎯 使用 NumPy 进行二进制运算挑战 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-binary-operations-challenge-with-numpy-153823'>开始挑战</a> |
-|      9 | 🎯 分析并可视化 FFT              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-analyze-and-visualize-fft-55715'>开始挑战</a>               |
 
 ## 更多
 
