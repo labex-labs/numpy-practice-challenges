@@ -15,17 +15,23 @@
 
 ## 练习
 
-|   序号 | 名称                                | 难度   | 练习                                                                                                                 |
-|--------|-------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------|
-|      1 | 🎯 🟢 通过梯度查找图像边缘          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-find-image-edges-by-gradients-259151'>开始挑战</a>           |
-|      2 | 🎯 🔵 NumPy 点积                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-dot-product-8737'>开始挑战</a>                        |
-|      3 | 🎯 🔵 使用 NumPy 进行随机数生成     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-random-number-generation-with-numpy-34635'>开始挑战</a>     |
-|      4 | 🎯 🔵 使用 NumPy 求解线性代数问题   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-linear-algebra-solving-with-numpy-8000'>开始挑战</a>        |
-|      5 | 🎯 🔵 排序与搜索                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-sorting-and-searching-154566'>开始挑战</a>                  |
-|      6 | 🎯 🔵 NumPy 列表数值统计            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-list-value-statistics-664'>开始挑战</a>               |
-|      7 | 🎯 🔵 字符串操作                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-string-operations-148882'>开始挑战</a>                      |
-|      8 | 🎯 🔵 使用 NumPy 进行二进制运算挑战 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-binary-operations-challenge-with-numpy-153823'>开始挑战</a> |
-|      9 | 🎯 🔵 分析并可视化 FFT              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-analyze-and-visualize-fft-55715'>开始挑战</a>               |
+|   序号 | 名称                                | 难度   | 练习                                                                                                                |
+|--------|-------------------------------------|--------|---------------------------------------------------------------------------------------------------------------------|
+|     01 | 🎯 🆓 太空中的 NumPy                | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-in-space-33961'>开始挑战</a>                          |
+|     02 | 🎯 🆓 NumPy 数组数据类型转换器      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-array-datatype-converter-9187'>开始挑战</a>           |
+|     03 | 🎯 🆓 NumPy 数组操作                | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-array-operation-8708'>开始挑战</a>                    |
+|     04 | 🎯 🆓 数组索引与切片                | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-array-indexing-and-slicing-38504'>开始挑战</a>              |
+|     05 | 🎯 🆓 让 NumPy 数组随心所变         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-make-numpy-array-your-shape-8687'>开始挑战</a>              |
+|     06 | 🎯 🆓 NumPy 数学游戏                | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-math-games-10'>开始挑战</a>                          |
+|     07 | 🎯 🆓 NumPy 点积                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-dot-product-8737'>开始挑战</a>                        |
+|     08 | 🎯 🆓 使用 NumPy 进行随机数生成     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-random-number-generation-with-numpy-34635'>开始挑战</a>     |
+|     09 | 🎯 🆓 使用 NumPy 求解线性代数问题   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-linear-algebra-solving-with-numpy-8000'>开始挑战</a>        |
+|     10 | 🎯 🆓 排序与搜索                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-sorting-and-searching-154566'>开始挑战</a>                  |
+|     11 | 🎯 🆓 NumPy 列表数值统计            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-list-value-statistics-664'>开始挑战</a>               |
+|     12 | 🎯 🆓 字符串操作                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-string-operations-148882'>开始挑战</a>                     |
+|     13 | 🎯 🆓 使用 NumPy 进行二进制运算挑战 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-binary-operations-challenge-with-numpy-153823'>开始挑战</a> |
+|     14 | 🎯 🆓 分析并可视化 FFT              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-analyze-and-visualize-fft-55715'>开始挑战</a>               |
+|     15 | 🎯 🆓 NumPy Einsum 函数             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-einsum-function-8001'>开始挑战</a>               |
 
 ## 学习环境
 
