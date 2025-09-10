@@ -15,17 +15,23 @@ This course contains lots of challenges for NumPy, each challenge is a small Num
 
 ## Exercises
 
-|   Index | Name                                         | Difficulty   | Practice                                                                                                                 |
-|---------|----------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------|
-|       1 | 🎯 🟢 Find Image Edges by Gradients          | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-find-image-edges-by-gradients-259151'>Start Challenge</a>           |
-|       2 | 🎯 🔵 NumPy Dot Product                      | Beginner     | <a target='_blank' href='https://labex.io/labs/python-numpy-dot-product-8737'>Start Challenge</a>                        |
-|       3 | 🎯 🔵 Random Number Generation with NumPy    | Beginner     | <a target='_blank' href='https://labex.io/labs/python-random-number-generation-with-numpy-34635'>Start Challenge</a>     |
-|       4 | 🎯 🔵 Linear Algebra Solving with NumPy      | Beginner     | <a target='_blank' href='https://labex.io/labs/python-linear-algebra-solving-with-numpy-8000'>Start Challenge</a>        |
-|       5 | 🎯 🔵 Sorting and Searching                  | Beginner     | <a target='_blank' href='https://labex.io/labs/python-sorting-and-searching-154566'>Start Challenge</a>                  |
-|       6 | 🎯 🔵 NumPy List Value Statistics            | Beginner     | <a target='_blank' href='https://labex.io/labs/python-numpy-list-value-statistics-664'>Start Challenge</a>               |
-|       7 | 🎯 🔵 String Operations                      | Beginner     | <a target='_blank' href='https://labex.io/labs/python-string-operations-148882'>Start Challenge</a>                      |
-|       8 | 🎯 🔵 Binary Operations Challenge with NumPy | Beginner     | <a target='_blank' href='https://labex.io/labs/python-binary-operations-challenge-with-numpy-153823'>Start Challenge</a> |
-|       9 | 🎯 🔵 Analyze and Visualize FFT              | Beginner     | <a target='_blank' href='https://labex.io/labs/python-analyze-and-visualize-fft-55715'>Start Challenge</a>               |
+|   Index | Name                                         | Difficulty   | Practice                                                                                                                |
+|---------|----------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
+|      01 | 🎯 🆓 NumPy in Space                         | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-in-space-33961'>Start Challenge</a>                          |
+|      02 | 🎯 🆓 NumPy Array Datatype Converter         | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-array-datatype-converter-9187'>Start Challenge</a>           |
+|      03 | 🎯 🆓 NumPy Array Operation                  | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-array-operation-8708'>Start Challenge</a>                    |
+|      04 | 🎯 🆓 Array Indexing and Slicing             | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-array-indexing-and-slicing-38504'>Start Challenge</a>              |
+|      05 | 🎯 🆓 Make NumPy Array Your Shape            | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-make-numpy-array-your-shape-8687'>Start Challenge</a>              |
+|      06 | 🎯 🆓 NumPy Math Games                       | Beginner     | <a target='_blank' href='https://labex.io/labs/python-numpy-math-games-10'>Start Challenge</a>                          |
+|      07 | 🎯 🆓 NumPy Dot Product                      | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-dot-product-8737'>Start Challenge</a>                        |
+|      08 | 🎯 🆓 Random Number Generation with NumPy    | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-random-number-generation-with-numpy-34635'>Start Challenge</a>     |
+|      09 | 🎯 🆓 Linear Algebra Solving with NumPy      | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-linear-algebra-solving-with-numpy-8000'>Start Challenge</a>        |
+|      10 | 🎯 🆓 Sorting and Searching                  | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-sorting-and-searching-154566'>Start Challenge</a>                  |
+|      11 | 🎯 🆓 NumPy List Value Statistics            | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-list-value-statistics-664'>Start Challenge</a>               |
+|      12 | 🎯 🆓 String Operations                      | Beginner     | <a target='_blank' href='https://labex.io/labs/python-string-operations-148882'>Start Challenge</a>                     |
+|      13 | 🎯 🆓 Binary Operations Challenge with NumPy | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-binary-operations-challenge-with-numpy-153823'>Start Challenge</a> |
+|      14 | 🎯 🆓 Analyze and Visualize FFT              | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-analyze-and-visualize-fft-55715'>Start Challenge</a>               |
+|      15 | 🎯 🆓 NumPy Einsum Function                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-einsum-function-8001'>Start Challenge</a>               |
 
 ## Environment
 
