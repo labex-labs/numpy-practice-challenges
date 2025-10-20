@@ -22,7 +22,7 @@
 |     03 | 🎯 🆓 NumPy 数组操作                | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-array-operation-8708'>开始挑战</a>                    |
 |     04 | 🎯 🆓 数组索引与切片                | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-array-indexing-and-slicing-38504'>开始挑战</a>              |
 |     05 | 🎯 🆓 让 NumPy 数组随心所变         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-make-numpy-array-your-shape-8687'>开始挑战</a>              |
-|     06 | 🎯 🆓 NumPy 数学游戏                | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-math-games-10'>开始挑战</a>                          |
+|     06 | 🎯 🆓 NumPy 数学挑战                | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-numpy-math-games-10'>开始挑战</a>                     |
 |     07 | 🎯 🆓 NumPy 点积                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-dot-product-8737'>开始挑战</a>                        |
 |     08 | 🎯 🆓 使用 NumPy 进行随机数生成     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-random-number-generation-with-numpy-34635'>开始挑战</a>     |
 |     09 | 🎯 🆓 使用 NumPy 求解线性代数问题   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-linear-algebra-solving-with-numpy-8000'>开始挑战</a>        |
@@ -33,19 +33,9 @@
 |     14 | 🎯 🆓 分析并可视化 FFT              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-analyze-and-visualize-fft-55715'>开始挑战</a>               |
 |     15 | 🎯 🆓 NumPy Einsum 函数             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-einsum-function-8001'>开始挑战</a>               |
 
-## 学习环境
+## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 严格的"边学边做"方法，提供独家动手实验，无视频。
-- 浏览器内的交互式在线环境，具有自动化的逐步检查。
-- 基于技能树的结构化内容组织系统。
-- 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
-- 基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
-
-了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
