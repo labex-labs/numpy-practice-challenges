@@ -22,7 +22,7 @@ Dieser Kurs enthält zahlreiche Aufgaben für NumPy. Jede Aufgabe ist ein kleine
 |      03 | 🎯 🆓 NumPy Array Operationen                      | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/numpy-numpy-array-operation-8708'>Challenge Starten</a>                    |
 |      04 | 🎯 🆓 Arrayindexierung und -slicing                | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/numpy-array-indexing-and-slicing-38504'>Challenge Starten</a>              |
 |      05 | 🎯 🆓 Formen Sie NumPy-Arrays wie Sie möchten      | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/numpy-make-numpy-array-your-shape-8687'>Challenge Starten</a>              |
-|      06 | 🎯 🆓 NumPy Math Spiele                            | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-numpy-math-games-10'>Challenge Starten</a>                          |
+|      06 | 🎯 🆓 NumPy Mathe-Spiele                           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-numpy-math-games-10'>Challenge Starten</a>                     |
 |      07 | 🎯 🆓 NumPy Skalarprodukt (Dot Product)            | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/numpy-numpy-dot-product-8737'>Challenge Starten</a>                        |
 |      08 | 🎯 🆓 Zufallszahlenerzeugung mit NumPy             | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/numpy-random-number-generation-with-numpy-34635'>Challenge Starten</a>     |
 |      09 | 🎯 🆓 Lineare Algebra mit NumPy lösen              | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/numpy-linear-algebra-solving-with-numpy-8000'>Challenge Starten</a>        |
@@ -33,19 +33,9 @@ Dieser Kurs enthält zahlreiche Aufgaben für NumPy. Jede Aufgabe ist ein kleine
 |      14 | 🎯 🆓 Analysieren und Visualisieren von FFT        | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/numpy-analyze-and-visualize-fft-55715'>Challenge Starten</a>               |
 |      15 | 🎯 🆓 NumPy Einsum Funktion                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/numpy-numpy-einsum-function-8001'>Challenge Starten</a>               |
 
-## Umgebung
+## Über LabEx
 
-LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Ein strikter "Learning by Doing"-Ansatz mit exklusiven praktischen Laboren ohne Videos.
-- Interaktive Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen.
-- Eine strukturierte Inhaltsorganisation mit dem Skill-Tree-basierten System.
-- Eine wachsende Lernressource von 30 Skill Trees und über 6.000 Laboren.
-- Der Lernassistent Labby, aufgebaut auf den neuesten KI-Modellen, bietet eine konversationelle Lernerfahrung.
-
-Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, bietet LabEx umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
 
 ## Mehr
 
