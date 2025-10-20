@@ -22,7 +22,7 @@
 |       03 | 🎯 🆓 NumPy 배열 연산                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/numpy-numpy-array-operation-8708'>도전 시작</a>                    |
 |       04 | 🎯 🆓 배열 인덱싱 및 슬라이싱                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/numpy-array-indexing-and-slicing-38504'>도전 시작</a>              |
 |       05 | 🎯 🆓 NumPy 배열을 원하는 모양으로 만들기    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/numpy-make-numpy-array-your-shape-8687'>도전 시작</a>              |
-|       06 | 🎯 🆓 NumPy 수학 게임                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-numpy-math-games-10'>도전 시작</a>                          |
+|       06 | 🎯 🆓 NumPy 수학 연산 연습                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-numpy-math-games-10'>도전 시작</a>                     |
 |       07 | 🎯 🆓 NumPy Dot Product                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/numpy-numpy-dot-product-8737'>도전 시작</a>                        |
 |       08 | 🎯 🆓 NumPy 를 이용한 난수 생성              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/numpy-random-number-generation-with-numpy-34635'>도전 시작</a>     |
 |       09 | 🎯 🆓 NumPy 를 이용한 선형 대수 문제 해결    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/numpy-linear-algebra-solving-with-numpy-8000'>도전 시작</a>        |
@@ -33,19 +33,9 @@
 |       14 | 🎯 🆓 FFT 분석 및 시각화                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/numpy-analyze-and-visualize-fft-55715'>도전 시작</a>               |
 |       15 | 🎯 🆓 NumPy Einsum 함수                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/numpy-numpy-einsum-function-8001'>도전 시작</a>               |
 
-## 환경
+## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 비디오 없는 독점적인 실습 실험실로 엄격한 "실습을 통한 학습" 접근 방식.
-- 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인.
-- 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성.
-- 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스.
-- 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
-
-자세히 알아보기 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
