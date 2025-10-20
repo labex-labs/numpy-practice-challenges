@@ -22,7 +22,7 @@ Ce cours contient de nombreux défis pour NumPy. Chaque défi est un petit proje
 |      03 | 🎯 🆓 Opérations sur les tableaux NumPy                     | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/numpy-numpy-array-operation-8708'>Commencer le Défi</a>                    |
 |      04 | 🎯 🆓 Indexation et découpage d'objets                      | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/numpy-array-indexing-and-slicing-38504'>Commencer le Défi</a>              |
 |      05 | 🎯 🆓 Donnez la forme que vous voulez à vos tableaux Num... | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/numpy-make-numpy-array-your-shape-8687'>Commencer le Défi</a>              |
-|      06 | 🎯 🆓 Jeux mathématiques avec NumPy                         | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-numpy-math-games-10'>Commencer le Défi</a>                          |
+|      06 | 🎯 🆓 Jeux Mathématiques avec NumPy                         | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/python-numpy-math-games-10'>Commencer le Défi</a>                     |
 |      07 | 🎯 🆓 Produit scalaire NumPy                                | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/numpy-numpy-dot-product-8737'>Commencer le Défi</a>                        |
 |      08 | 🎯 🆓 Génération de nombres aléatoires avec NumPy           | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/numpy-random-number-generation-with-numpy-34635'>Commencer le Défi</a>     |
 |      09 | 🎯 🆓 Résolution d'algèbre linéaire avec NumPy              | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/numpy-linear-algebra-solving-with-numpy-8000'>Commencer le Défi</a>        |
@@ -33,19 +33,9 @@ Ce cours contient de nombreux défis pour NumPy. Chaque défi est un petit proje
 |      14 | 🎯 🆓 Analyser et visualiser la FFT                         | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/numpy-analyze-and-visualize-fft-55715'>Commencer le Défi</a>               |
 |      15 | 🎯 🆓 Fonction Einsum de NumPy                              | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/numpy-numpy-einsum-function-8001'>Commencer le Défi</a>               |
 
-## Environnement
+## À propos de LabEx
 
-LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Une approche stricte "Apprendre en Faisant" avec des laboratoires pratiques exclusifs et sans vidéos.
-- Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
-- Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
-- Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
-- L'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
-
-En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, LabEx offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 ## Plus
 
