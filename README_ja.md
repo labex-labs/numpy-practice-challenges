@@ -15,27 +15,27 @@
 
 ## 演習
 
-|   インデックス | 名前                                         | 難易度   | 練習                                                                                                                        |
-|----------------|----------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------|
-|             01 | 🎯 🆓 宇宙における NumPy                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-numpy-in-space-33961'>チャレンジを開始</a>                          |
-|             02 | 🎯 🆓 NumPy 配列のデータ型変換               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-numpy-array-datatype-converter-9187'>チャレンジを開始</a>           |
-|             03 | 🎯 🆓 NumPy 配列操作                         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-numpy-array-operation-8708'>チャレンジを開始</a>                    |
-|             04 | 🎯 🆓 配列のインデックス付けとスライシング   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-array-indexing-and-slicing-38504'>チャレンジを開始</a>              |
-|             05 | 🎯 🆓 NumPy 配列をあなたの好きな形状に変える | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-make-numpy-array-your-shape-8687'>チャレンジを開始</a>              |
-|             06 | 🎯 🆓 NumPy 数学ゲーム (NumPy Math Games)    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-numpy-math-games-10'>チャレンジを開始</a>                     |
-|             07 | 🎯 🆓 NumPy の内積                           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-numpy-dot-product-8737'>チャレンジを開始</a>                        |
-|             08 | 🎯 🆓 NumPy を使った乱数生成                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-random-number-generation-with-numpy-34635'>チャレンジを開始</a>     |
-|             09 | 🎯 🆓 NumPy を使った線形代数の解き方         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-linear-algebra-solving-with-numpy-8000'>チャレンジを開始</a>        |
-|             10 | 🎯 🆓 ソートと検索                           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-sorting-and-searching-154566'>チャレンジを開始</a>                  |
-|             11 | 🎯 🆓 NumPy リスト値の統計                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-numpy-list-value-statistics-664'>チャレンジを開始</a>               |
-|             12 | 🎯 🆓 文字列操作                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-string-operations-148882'>チャレンジを開始</a>                     |
-|             13 | 🎯 🆓 NumPy を使ったバイナリ演算チャレンジ   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-binary-operations-challenge-with-numpy-153823'>チャレンジを開始</a> |
-|             14 | 🎯 🆓 FFT を分析して可視化する               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-analyze-and-visualize-fft-55715'>チャレンジを開始</a>               |
-|             15 | 🎯 🆓 NumPy Einsum 関数                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/numpy-numpy-einsum-function-8001'>チャレンジを開始</a>               |
+|   インデックス | 名前                                         | 難易度   | 練習                                                                                                                                                         |
+|----------------|----------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|             01 | 🎯 🆓 宇宙における NumPy                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-numpy-in-space-33961?course=numpy-practice-challenges'>チャレンジを開始</a>                          |
+|             02 | 🎯 🆓 NumPy 配列のデータ型変換               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-numpy-array-datatype-converter-9187?course=numpy-practice-challenges'>チャレンジを開始</a>           |
+|             03 | 🎯 🆓 NumPy 配列操作                         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-numpy-array-operation-8708?course=numpy-practice-challenges'>チャレンジを開始</a>                    |
+|             04 | 🎯 🆓 配列のインデックス付けとスライシング   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-array-indexing-and-slicing-38504?course=numpy-practice-challenges'>チャレンジを開始</a>              |
+|             05 | 🎯 🆓 NumPy 配列をあなたの好きな形状に変える | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-make-numpy-array-your-shape-8687?course=numpy-practice-challenges'>チャレンジを開始</a>              |
+|             06 | 🎯 🆓 NumPy 数学ゲーム (NumPy Math Games)    | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-numpy-math-games-10?course=numpy-practice-challenges'>チャレンジを開始</a>                          |
+|             07 | 🎯 🆓 NumPy の内積                           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-numpy-dot-product-8737?course=numpy-practice-challenges'>チャレンジを開始</a>                        |
+|             08 | 🎯 🆓 NumPy を使った乱数生成                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-random-number-generation-with-numpy-34635?course=numpy-practice-challenges'>チャレンジを開始</a>     |
+|             09 | 🎯 🆓 NumPy を使った線形代数の解き方         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-linear-algebra-solving-with-numpy-8000?course=numpy-practice-challenges'>チャレンジを開始</a>        |
+|             10 | 🎯 🆓 ソートと検索                           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-sorting-and-searching-154566?course=numpy-practice-challenges'>チャレンジを開始</a>                  |
+|             11 | 🎯 🆓 NumPy リスト値の統計                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-numpy-list-value-statistics-664?course=numpy-practice-challenges'>チャレンジを開始</a>               |
+|             12 | 🎯 🆓 文字列操作                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-string-operations-148882?course=numpy-practice-challenges'>チャレンジを開始</a>                     |
+|             13 | 🎯 🆓 NumPy を使ったバイナリ演算チャレンジ   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-binary-operations-challenge-with-numpy-153823?course=numpy-practice-challenges'>チャレンジを開始</a> |
+|             14 | 🎯 🆓 FFT を分析して可視化する               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-analyze-and-visualize-fft-55715?course=numpy-practice-challenges'>チャレンジを開始</a>               |
+|             15 | 🎯 🆓 NumPy Einsum 関数                      | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-numpy-einsum-function-8001?course=numpy-practice-challenges'>チャレンジを開始</a>                    |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
